@@ -5,7 +5,7 @@
 <a name="english"></a>
 ## English
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features a clean design with dark/light mode support and smooth transitions.
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features a clean design with dark/light mode support and smooth transitions.    
 
 ### Screenshots
 
@@ -15,7 +15,10 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 #### Dark Mode
 ![Dark Mode](src/assets/sc-dark-en.png)
 
-#### JSON View
+#### JSON View - Light Mode
+![Light Mode JSON View - English](src/assets/sc-light-en-2.png)
+
+#### JSON View - Dark Mode
 ![Dark Mode JSON View - English](src/assets/sc-dark-en-2.png)
 
 ### Features
@@ -94,7 +97,10 @@ React, TypeScript ve Tailwind CSS ile geliştirilmiş modern, duyarlı bir portf
 #### Karanlık Mod
 ![Dark Mode - Turkish](src/assets/sc-dark-tr.png)
 
-#### JSON Görünümü
+#### JSON Görünümü - Aydınlık Mod
+![Light Mode JSON View - Turkish](src/assets/sc-light-tr-2.png)
+
+#### JSON Görünümü - Karanlık Mod
 ![Dark Mode JSON View - Turkish](src/assets/sc-dark-tr-2.png)
 
 ### Özellikler
