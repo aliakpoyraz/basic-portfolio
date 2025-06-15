@@ -1,0 +1,12 @@
+{
+  "name": "Ali Akpoyraz",
+  "title": "Software Engineer",
+  "aboutMe": "Hello! I'm Ali, as a software engineering student, I'm working on developing new projects using modern web technologies. I also actively work in web development and SEO. If you want to develop projects with me, feel free to contact me!",
+  "location": "Ankara, Turkey",
+  "social": {
+    "github": "https://github.com/alikpoyraz",
+    "linkedin": "https://linkedin.com/in/alikpoyraz",
+    "cv": "/cv.pdf",
+    "email": "alikpoyraz@gmail.com"
+  }
+} 
