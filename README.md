@@ -10,13 +10,13 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 ### Screenshots
 
 #### Light Mode
-![Light Mode](public/sc-light-en.png)
+![Light Mode](src/assets/sc-light-en.png)
 
 #### Dark Mode
-![Dark Mode](public/sc-dark-en.png)
+![Dark Mode](src/assets/sc-dark-en.png)
 
 #### JSON View
-![Dark Mode JSON View - English](public/sc-dark-en-2.png)
+![Dark Mode JSON View - English](src/assets/sc-dark-en-2.png)
 
 ### Features
 
@@ -89,13 +89,13 @@ React, TypeScript ve Tailwind CSS ile geliştirilmiş modern, duyarlı bir portf
 ### Ekran Görüntüleri
 
 #### Aydınlık Mod
-![Light Mode - Turkish](public/sc-light-tr.png)
+![Light Mode - Turkish](src/assets/sc-light-tr.png)
 
 #### Karanlık Mod
-![Dark Mode - Turkish](public/sc-dark-tr.png)
+![Dark Mode - Turkish](src/assets/sc-dark-tr.png)
 
 #### JSON Görünümü
-![Dark Mode JSON View - Turkish](public/sc-dark-tr-2.png)
+![Dark Mode JSON View - Turkish](src/assets/sc-dark-tr-2.png)
 
 ### Özellikler
 
