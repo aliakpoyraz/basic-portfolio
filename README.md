@@ -1,4 +1,4 @@
-# Modern Portfolio Website | Modern Portfolyo Web Sitesi
+# Basic Portfolio Website | Basic Portfolyo Web Sitesi
 
 [English](#english) | [Türkçe](#turkish)
 
